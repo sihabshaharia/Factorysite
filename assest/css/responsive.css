@@ -1,0 +1,49 @@
+/*******************************
+	All Responsive Code
+*******************************/
+  @media screen and (max-width: 1199px){
+  }
+  
+  @media screen and (max-width: 992px) {
+    h1 {
+        font-size: 42px;
+        line-height: 52px;
+      }
+    .slider-item .single-slider{
+        max-width: 80%;
+      }
+      .top-menu{
+        display: none;
+      }
+      .factory-service{
+        text-align: center;
+      }
+  }
+  
+  
+  @media screen and (max-width: 768px) {
+    h1 {
+        font-size: 36px;
+        line-height: 46px;
+      }
+    .slider-item .single-slider{
+        max-width: 100%;
+      }
+  
+  }
+  
+  @media screen and (max-width: 575px) {
+
+  
+  }
+  
+  @media screen and (max-width: 414px) {
+  
+  
+  }
+  
+  @media screen and (max-width: 360px) {}
+  
+  /*******************************
+      All Responsive Code end
+  *******************************/
